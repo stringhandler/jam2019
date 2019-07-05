@@ -2,7 +2,7 @@
     "id": "a0f57afc-8517-454a-a421-6e6bde4327e7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player",
+    "name": "obj_player_base",
     "eventList": [
         {
             "id": "d3ae935c-0d6d-4d3b-afd9-196885d15572",
@@ -55,7 +55,7 @@
     "physicsGroup": 0,
     "physicsKinematic": false,
     "physicsLinearDamping": 0.1,
-    "physicsObject": true,
+    "physicsObject": false,
     "physicsRestitution": 0.1,
     "physicsSensor": false,
     "physicsShape": 1,
@@ -104,9 +104,23 @@
             "value": "0",
             "varName": "jump",
             "varType": 1
+        },
+        {
+            "id": "02aaf6be-0ade-49a2-8a58-0878d79c094d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "player_no",
+            "varType": 1
         }
     ],
     "solid": true,
-    "spriteId": "fd1933b0-f274-4bfb-b6dd-2885351d0b2f",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
