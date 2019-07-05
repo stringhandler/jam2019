@@ -1,0 +1,112 @@
+{
+    "id": "a0f57afc-8517-454a-a421-6e6bde4327e7",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_player",
+    "eventList": [
+        {
+            "id": "d3ae935c-0d6d-4d3b-afd9-196885d15572",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 37,
+            "eventtype": 5,
+            "m_owner": "a0f57afc-8517-454a-a421-6e6bde4327e7"
+        },
+        {
+            "id": "1a5bffe4-c021-4949-8cce-7c32f05a677a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 39,
+            "eventtype": 5,
+            "m_owner": "a0f57afc-8517-454a-a421-6e6bde4327e7"
+        },
+        {
+            "id": "5c314480-6ba0-403a-aa30-124691ed0b53",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a0f57afc-8517-454a-a421-6e6bde4327e7"
+        },
+        {
+            "id": "34297747-0751-4681-a76e-2e0e3dc2af19",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 5,
+            "m_owner": "a0f57afc-8517-454a-a421-6e6bde4327e7"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": true,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": [
+        {
+            "id": "6092469f-c8cc-4e64-8e7f-6c3395404c80",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "id": "09b261e2-5080-4564-9521-16f5079660f7",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 32,
+            "y": 0
+        },
+        {
+            "id": "eae0e388-2b26-450b-9fe4-eb5fd1657008",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 32,
+            "y": 32
+        },
+        {
+            "id": "b453a3ca-08ac-47e1-95e7-f27c2e3f0664",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 0,
+            "y": 32
+        }
+    ],
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "b0bda14c-e5bf-4d56-a7b0-57f0dc8bd1df",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "jump",
+            "varType": 1
+        }
+    ],
+    "solid": true,
+    "spriteId": "fd1933b0-f274-4bfb-b6dd-2885351d0b2f",
+    "visible": true
+}
