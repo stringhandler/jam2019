@@ -7,9 +7,10 @@ if (jump > 0) {
 	jump -=1
 } else {
 	
-for (i=10;i>0;i--){
+for (i=15;i>0;i--){
 	if place_free(x, y+i) {
 		y=y+i
+		break;
 	}
 }
 }
