@@ -1,23 +1,14 @@
 {
-    "id": "e7aaa513-92ac-4764-8cdc-79b2e2ae3839",
+    "id": "da4d5dc1-ee3b-4237-8ac8-d9415463be70",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player1",
+    "name": "obj_enemy",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": [
-        {
-            "id": "e59236e4-da79-41a0-af6e-18ffb88ca7d9",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "a0f57afc-8517-454a-a421-6e6bde4327e7",
-            "propertyId": "02aaf6be-0ade-49a2-8a58-0878d79c094d",
-            "value": "1"
-        }
-    ],
-    "parentObjectId": "a0f57afc-8517-454a-a421-6e6bde4327e7",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "c65b1faf-75df-4788-9fa3-9bc4e711d063",
+    "spriteId": "0f820870-b530-48dd-ac4e-f74c16890196",
     "visible": true
 }
