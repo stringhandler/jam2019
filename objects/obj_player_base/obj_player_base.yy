@@ -158,6 +158,48 @@
             "value": "0",
             "varName": "player_no",
             "varType": 1
+        },
+        {
+            "id": "018fd1b5-cec4-4623-b29a-58c82d288d2e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_player2_push",
+            "varName": "pushing_spr",
+            "varType": 5
+        },
+        {
+            "id": "3d3762e8-e8c1-4143-b624-49d965f9222c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_player2",
+            "varName": "standing_spr",
+            "varType": 5
+        },
+        {
+            "id": "8ce48532-5737-4500-abf5-728b6701d24e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_player2",
+            "varName": "walking_spr",
+            "varType": 5
         }
     ],
     "solid": true,

@@ -14,3 +14,17 @@ for (i=15;i>0;i--){
 	}
 }
 }
+
+// check for walls
+if direction == 0 && !place_free(x + 1, y) {
+	is_pushing = true
+	sprite_index = pushing_spr
+}
+else if direction == 180 && !place_free(x -1, y) {
+	is_pushing = true
+	sprite_index = pushing_spr
+}
+else {
+	is_pushing = false
+	sprite_index = walking_spr
+}
