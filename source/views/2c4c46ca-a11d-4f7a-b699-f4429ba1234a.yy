@@ -1,0 +1,31 @@
+{
+    "id": "2c4c46ca-a11d-4f7a-b699-f4429ba1234a",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "2c4c46ca-a11d-4f7a-b699-f4429ba1234a",
+    "children": [
+        "e73732ec-b5b4-464d-8f11-177ba82feb9c",
+        "973e0386-5531-456b-bef8-d86ac64abaf3",
+        "5db23acb-3843-4e7b-b919-5258c4cfd0f6",
+        "dc08439d-0b66-4c24-aa1d-37dcc31732b8",
+        "ac0c622d-e50c-4062-84ce-ba9251b264fe",
+        "c74530d2-ca77-4fe1-85c6-1d34f1f4ecca",
+        "b6c8871d-138e-499a-9895-84bf500ac688",
+        "a57e48f7-e82d-4f8c-934b-1d42c986138d",
+        "2db65493-9e45-4942-93df-35b5738c8b46",
+        "e4113c9f-fd7d-447c-b537-1d49d9686514",
+        "8ff19102-679e-48d6-b6d6-9c7aae7a9d1f",
+        "19e5680b-55db-46a9-9342-10ec551f7885",
+        "968b3ee6-8171-4c39-8f21-32467cc8b286",
+        "33137714-5a61-47a4-9a9c-ee5df5d18762",
+        "ef4d8bc7-51b1-4761-86d7-ce57943cc3b3",
+        "15f3d767-e063-429f-b18e-3911a40a74ac",
+        "089cae0d-d86d-4d96-b043-4615003563fe",
+        "11e2a319-6141-439c-86d2-8d25dcc8399d",
+        "2dfce747-4787-4b0e-8f5a-5bc2c5570626"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Fire",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

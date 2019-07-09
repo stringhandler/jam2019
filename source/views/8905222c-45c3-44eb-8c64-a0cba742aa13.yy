@@ -1,0 +1,31 @@
+{
+    "id": "8905222c-45c3-44eb-8c64-a0cba742aa13",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "8905222c-45c3-44eb-8c64-a0cba742aa13",
+    "children": [
+        "3dc06322-e08b-4e87-bcfc-0ae8ce655edc",
+        "b3516bd4-75e6-44f3-9d66-3b0e5801926c",
+        "34489984-df39-4c95-8a56-e073def67bd2",
+        "cfe1f981-8e5b-430e-84e9-1746bb63e364",
+        "0237a587-d860-4bb6-8eff-6d91538ecbe4",
+        "3e11e582-7d7f-4602-8681-6661ceeb22f7",
+        "b488aac7-0e43-448e-98d7-e61b8d41656b",
+        "0cc1ca13-295d-4d79-b9ea-220966615907",
+        "61819385-b95e-4cab-accc-74ae7ebd209b",
+        "c351acaa-9e67-49bb-aca0-0660a6b11353",
+        "3cddad62-df0e-46c9-a1e4-0ea4d2edcbdc",
+        "281e7188-fb48-4970-b68d-3b35df8972d2",
+        "c4997356-1733-497c-9e34-1dce845972f6",
+        "a71baae7-cc21-4636-a804-ed9c41990701",
+        "d609cb1b-a871-43a2-8a41-fe992590e071",
+        "a861bf8f-371f-4945-84c6-ba590b307f71",
+        "4abe91cc-d4ca-41d2-8cac-d9f755e867f5",
+        "143fb4b4-d17b-4872-a653-1d496e83b935",
+        "cd6d88a8-8c13-4899-b9f7-ba7139455bce"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Wood",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

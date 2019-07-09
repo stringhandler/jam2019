@@ -1,0 +1,31 @@
+{
+    "id": "19cf7fd6-aa82-4bae-bd4e-37fd77f6c1e1",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "19cf7fd6-aa82-4bae-bd4e-37fd77f6c1e1",
+    "children": [
+        "1ef17803-5d88-46a2-9754-0c969bea8e8b",
+        "7713af61-437d-4cff-9c35-1c76200e9f77",
+        "a2a8560f-53b3-4daf-858c-9280f3b32b5c",
+        "71bde031-83e3-4bbf-b47d-6cabdc0b3305",
+        "bd2cf5ff-c71d-4baa-b729-d33b05f4f220",
+        "eec756b6-4a5a-4178-8d7f-72b4e7b99ac7",
+        "4377914a-480b-4b17-b1ba-5c1dea7ebf3b",
+        "c7d5e709-654b-460f-86b4-31dbd415b86c",
+        "69cca616-34d9-4838-bc1e-38bd5dab7222",
+        "e046bb65-96d4-48f8-9caa-6d8ce88d1f77",
+        "d76165e7-5f56-4410-b693-a8bebe551121",
+        "ef642081-e232-4e2a-9f7b-d377da4ee24a",
+        "59986317-073b-4985-a785-ce1882ad529e",
+        "91e935e7-55c2-4e43-af77-bba6f00f1e39",
+        "c85a7154-f6f1-4198-89aa-1421687ee60c",
+        "ad2cfbb6-d076-4df8-b6ea-2a47301fb67a",
+        "12cca024-26cf-4b05-a88e-b325792ba91e",
+        "2485f77c-d560-40d8-ba75-cee170e38537",
+        "30e7291d-ac09-4ecf-8325-e1f2caeea30c"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Fire",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

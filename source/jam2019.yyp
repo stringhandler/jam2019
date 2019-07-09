@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "0237a587-d860-4bb6-8eff-6d91538ecbe4",
+            "Value": {
+                "id": "38613cdb-3b53-4615-9ef3-001b46296b23",
+                "resourcePath": "sprites\\spr_wood_tile5\\spr_wood_tile5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "024163e9-370d-41b4-be14-b3562bb76d2a",
+            "Value": {
+                "id": "20313622-f26b-47b4-9324-db491f9588c5",
+                "resourcePath": "objects\\obj_wood_tile9\\obj_wood_tile9.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "03c4aaee-3e9b-4898-b86f-9ed126cab6a3",
             "Value": {
                 "id": "14bc6bd7-5b22-46eb-8cc8-f12facb11e4e",
@@ -47,11 +63,27 @@
             }
         },
         {
+            "Key": "089cae0d-d86d-4d96-b043-4615003563fe",
+            "Value": {
+                "id": "f05b5fbc-d089-43be-a481-c53a8ac1fa38",
+                "resourcePath": "sprites\\spr_fire_tile17\\spr_fire_tile17.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08c936ae-6fc2-4364-a943-d52fa5e9ae9e",
             "Value": {
                 "id": "28f5997d-d7fa-4d68-b917-d68d740fcfe5",
                 "resourcePath": "views\\08c936ae-6fc2-4364-a943-d52fa5e9ae9e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "091d9e6e-3be3-41a0-8fe9-00ef80c64ad4",
+            "Value": {
+                "id": "11ca1327-4ebe-4b65-a80e-78120a6eda89",
+                "resourcePath": "objects\\obj_water_tile11\\obj_water_tile11.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -63,11 +95,91 @@
             }
         },
         {
+            "Key": "0bbb594c-ff14-4058-b34a-2eadaf4b3b07",
+            "Value": {
+                "id": "29e54537-f23c-4967-a93f-dc0e573c207b",
+                "resourcePath": "objects\\obj_stone_tile8\\obj_stone_tile8.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0cc1ca13-295d-4d79-b9ea-220966615907",
+            "Value": {
+                "id": "7c546a0f-66bf-4564-9848-636e9984295d",
+                "resourcePath": "sprites\\spr_wood_tile8\\spr_wood_tile8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f820870-b530-48dd-ac4e-f74c16890196",
             "Value": {
                 "id": "0f75417f-6388-44be-a2c3-18afb23b0f63",
                 "resourcePath": "sprites\/sprite5\/sprite5.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1005ab11-6dcb-478a-8e12-7e68aa2e0050",
+            "Value": {
+                "id": "3a068ba5-14cd-474d-a1c5-07e2cd69db41",
+                "resourcePath": "sprites\\spr_water_tile17\\spr_water_tile17.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "102db2c9-db60-403b-a2ec-52725971e72f",
+            "Value": {
+                "id": "7f064201-6826-41e9-ac54-45743d2286fd",
+                "resourcePath": "sprites\\spr_stone_tile5\\spr_stone_tile5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "11011f7f-c10e-4b79-bae3-f70def9626ad",
+            "Value": {
+                "id": "7d7a2fcb-0231-4c9f-87e0-e4187184047c",
+                "resourcePath": "sprites\\spr_stone_tile8\\spr_stone_tile8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "115308c8-f3ac-4c8e-8344-9bddb6fac0c9",
+            "Value": {
+                "id": "78166f6a-1317-4eff-8b15-7298efcd969f",
+                "resourcePath": "objects\\obj_water_tile14\\obj_water_tile14.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1176d285-c6a2-4989-8ae8-000665c5e429",
+            "Value": {
+                "id": "ecf26647-c7a8-45b5-89a4-f0222a5b46c9",
+                "resourcePath": "objects\\obj_wood_tile14\\obj_wood_tile14.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "11e2a319-6141-439c-86d2-8d25dcc8399d",
+            "Value": {
+                "id": "ec929a0b-3051-4571-920c-fec029f2f3cb",
+                "resourcePath": "sprites\\spr_fire_tile18\\spr_fire_tile18.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "12374488-dabb-455b-863a-290b7a8a60e4",
+            "Value": {
+                "id": "a68e5ae2-755f-4add-9b0f-16900565e340",
+                "resourcePath": "objects\\obj_stone_tile18\\obj_stone_tile18.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "12cca024-26cf-4b05-a88e-b325792ba91e",
+            "Value": {
+                "id": "bf02ddde-2e06-4df5-be06-655bae43d08d",
+                "resourcePath": "objects\\obj_fire_tile17\\obj_fire_tile17.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -87,6 +199,38 @@
             }
         },
         {
+            "Key": "1425639d-e563-44c4-af65-9690fcf974c2",
+            "Value": {
+                "id": "7417781e-1fbf-4533-b31c-4434436d7ac3",
+                "resourcePath": "objects\\obj_water_tile4\\obj_water_tile4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "143fb4b4-d17b-4872-a653-1d496e83b935",
+            "Value": {
+                "id": "506bcd9d-7926-4c4a-aba3-064170989a5c",
+                "resourcePath": "sprites\\spr_wood_tile18\\spr_wood_tile18.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "14d332a8-fd8c-47e0-b68d-6d12b2c5f301",
+            "Value": {
+                "id": "077a9cc0-e330-4912-a44a-715e5423784e",
+                "resourcePath": "objects\\obj_water_tile15\\obj_water_tile15.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "15f3d767-e063-429f-b18e-3911a40a74ac",
+            "Value": {
+                "id": "ac5a10c1-74f2-4a17-86fb-7c6d2dc29d99",
+                "resourcePath": "sprites\\spr_fire_tile16\\spr_fire_tile16.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "17752689-4620-4164-bf3b-6af11975a7e0",
             "Value": {
                 "id": "601e550a-b319-48bc-a6ae-478f9aa184dc",
@@ -103,6 +247,46 @@
             }
         },
         {
+            "Key": "185d0889-65e0-41f7-85bc-43ce0d2f919a",
+            "Value": {
+                "id": "35e6de89-4853-46de-bd37-bc96c9da3652",
+                "resourcePath": "sprites\\spr_water_tile19\\spr_water_tile19.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1900ffb8-c09a-418d-96de-9f1af2166ce6",
+            "Value": {
+                "id": "07e82097-7b1a-417d-9a8f-b269297e0804",
+                "resourcePath": "objects\\obj_water_tile13\\obj_water_tile13.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "19cf7fd6-aa82-4bae-bd4e-37fd77f6c1e1",
+            "Value": {
+                "id": "55a26058-6f50-434c-848a-11317c5abc78",
+                "resourcePath": "views\\19cf7fd6-aa82-4bae-bd4e-37fd77f6c1e1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "19e5680b-55db-46a9-9342-10ec551f7885",
+            "Value": {
+                "id": "00172489-d09a-4feb-a7c5-82626a01a42d",
+                "resourcePath": "sprites\\spr_fire_tile12\\spr_fire_tile12.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1b82f83f-9d15-4e2c-ba88-97f100d70447",
+            "Value": {
+                "id": "b18d9d1c-de64-4d4c-b132-ad20e1dff6c9",
+                "resourcePath": "objects\\obj_wood_tile1\\obj_wood_tile1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1d3207d2-fd71-48e1-9916-c1ebc081f502",
             "Value": {
                 "id": "dfc8bfca-4699-4acb-b829-94ed7a871d79",
@@ -111,10 +295,34 @@
             }
         },
         {
+            "Key": "1d4d927c-aa78-46ac-b629-78e0a6cf6993",
+            "Value": {
+                "id": "03df11d2-c29d-4e28-b821-4e6e19510b7d",
+                "resourcePath": "objects\\obj_stone_tile16\\obj_stone_tile16.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1e27269e-a81d-406f-b07e-a1cdfd833311",
+            "Value": {
+                "id": "929da201-3879-47ff-95dd-d824488ed122",
+                "resourcePath": "sprites\\spr_stone_tile17\\spr_stone_tile17.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1eede3bf-50fd-4b46-8a83-159b71966423",
             "Value": {
                 "id": "48c1b62c-d842-4e6c-b547-f21e20c6353a",
                 "resourcePath": "objects\\obj_metal_tile15\\obj_metal_tile15.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1ef17803-5d88-46a2-9754-0c969bea8e8b",
+            "Value": {
+                "id": "f6e572c7-7a9a-4d97-8299-d8e5b8dda323",
+                "resourcePath": "objects\\obj_fire_tile\\obj_fire_tile.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -127,10 +335,58 @@
             }
         },
         {
+            "Key": "20df48f3-e279-4d75-9bfa-56ad5e117782",
+            "Value": {
+                "id": "d54663bc-dcd8-43ed-a137-883f01b8c64b",
+                "resourcePath": "sprites\\spr_stone_tile15\\spr_stone_tile15.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2485f77c-d560-40d8-ba75-cee170e38537",
+            "Value": {
+                "id": "fccbc6ff-3038-49ed-acc4-23ccb90c6de3",
+                "resourcePath": "objects\\obj_fire_tile18\\obj_fire_tile18.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "26e94007-f770-45d2-b18b-16dc72335ee6",
+            "Value": {
+                "id": "533be5b9-6195-4bc7-86fa-04f3dad08793",
+                "resourcePath": "sprites\\spr_stone_tile16\\spr_stone_tile16.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "27cf7ae8-a90b-4560-ac61-b57506588f73",
             "Value": {
                 "id": "64ad6090-02b8-4b27-8874-694a414bf4f5",
                 "resourcePath": "sprites\/spr_player3\/spr_player3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "27f4c4a7-d667-4702-a1c7-3e9839433bb5",
+            "Value": {
+                "id": "603ef2d9-6342-4dd3-8f93-a9a0b968aced",
+                "resourcePath": "objects\\obj_wood_tile5\\obj_wood_tile5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "281e7188-fb48-4970-b68d-3b35df8972d2",
+            "Value": {
+                "id": "710e753c-b97c-4c4b-b55e-8f6797d8f19e",
+                "resourcePath": "sprites\\spr_wood_tile12\\spr_wood_tile12.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "28e019af-9d15-46fa-a313-497d4abc1856",
+            "Value": {
+                "id": "f61177a0-0680-4c3d-af9a-0b86a430e368",
+                "resourcePath": "sprites\\spr_water_tile8\\spr_water_tile8.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -143,10 +399,50 @@
             }
         },
         {
+            "Key": "2b2aaa96-8aef-44eb-85ff-ec3c35063302",
+            "Value": {
+                "id": "31d0e111-fcde-453a-b338-982d75b2a115",
+                "resourcePath": "objects\\obj_water_tile16\\obj_water_tile16.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2b7fb3e2-3bf0-4ce6-b694-620c9e6e2ea3",
+            "Value": {
+                "id": "5b739c96-8d0a-4ec2-88cf-dbee53e4e157",
+                "resourcePath": "sprites\\spr_stone_tile7\\spr_stone_tile7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2c4c46ca-a11d-4f7a-b699-f4429ba1234a",
+            "Value": {
+                "id": "77a46113-87ef-4aa2-b7c4-b7bcf7f4e592",
+                "resourcePath": "views\\2c4c46ca-a11d-4f7a-b699-f4429ba1234a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2d362d25-df72-41bb-9e4d-13d05022ce7f",
             "Value": {
                 "id": "74a8bfa1-0e86-48b9-879b-3b8c268bf3a9",
                 "resourcePath": "sprites\\spr_metal_tile13\\spr_metal_tile13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2db65493-9e45-4942-93df-35b5738c8b46",
+            "Value": {
+                "id": "52b389c0-f92a-4170-91c1-ffdbc64425e7",
+                "resourcePath": "sprites\\spr_fire_tile9\\spr_fire_tile9.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2dfce747-4787-4b0e-8f5a-5bc2c5570626",
+            "Value": {
+                "id": "14030350-d27e-45d5-970d-515343a82d16",
+                "resourcePath": "sprites\\spr_fire_tile19\\spr_fire_tile19.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -167,11 +463,67 @@
             }
         },
         {
+            "Key": "2f9d552a-0dd2-4bb3-814a-4b3e97288ecf",
+            "Value": {
+                "id": "788bd751-11ee-4b82-ab81-1c48bd394c6b",
+                "resourcePath": "objects\\obj_wood_tile18\\obj_wood_tile18.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "30e7291d-ac09-4ecf-8325-e1f2caeea30c",
+            "Value": {
+                "id": "eca0efdd-681f-47cf-afa5-3853f4cc6c61",
+                "resourcePath": "objects\\obj_fire_tile19\\obj_fire_tile19.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "31638d43-bcb0-4e45-b005-48b9d2efc1dc",
+            "Value": {
+                "id": "63d1e028-eb1b-402b-a456-5aebb99c2c94",
+                "resourcePath": "objects\\obj_stone_tile3\\obj_stone_tile3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3181be2b-283a-4f81-871b-0981ee6abf12",
             "Value": {
                 "id": "d4beb268-1497-4a98-ad0b-156d4b1b24b8",
                 "resourcePath": "sprites\\spr_metal_tile9\\spr_metal_tile9.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "33137714-5a61-47a4-9a9c-ee5df5d18762",
+            "Value": {
+                "id": "30dd0bba-b8a4-4cbb-8365-f3006c8abbba",
+                "resourcePath": "sprites\\spr_fire_tile14\\spr_fire_tile14.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "34489984-df39-4c95-8a56-e073def67bd2",
+            "Value": {
+                "id": "2e07ed53-8d7e-4ee5-be1b-da88f2857f66",
+                "resourcePath": "sprites\\spr_wood_tile3\\spr_wood_tile3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "380159b1-6440-495c-a674-105743bf45e7",
+            "Value": {
+                "id": "00894719-02ea-4f60-a738-24e2558de64f",
+                "resourcePath": "sprites\\spr_stone_tile10\\spr_stone_tile10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "386bb3c9-a19a-4ee8-8dc4-0360c4a6084e",
+            "Value": {
+                "id": "2a85f812-8210-4889-ad21-a52b9541712a",
+                "resourcePath": "objects\\obj_wood_tile3\\obj_wood_tile3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -191,11 +543,91 @@
             }
         },
         {
+            "Key": "3c11557b-d88c-43d7-a8f3-9974015a85bd",
+            "Value": {
+                "id": "29edf8b2-6182-44d3-8776-9157626861e1",
+                "resourcePath": "objects\\obj_stone_tile15\\obj_stone_tile15.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3cc7d14a-5f6f-4e17-8696-9fd576f84dab",
+            "Value": {
+                "id": "3131f8dd-d6ca-4b94-8782-465cd3f8145a",
+                "resourcePath": "objects\\obj_water_tile8\\obj_water_tile8.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3ccbf9da-2291-4102-81a6-bbe370b542de",
+            "Value": {
+                "id": "39c5d3d7-45ab-4812-8815-157e3606365a",
+                "resourcePath": "objects\\obj_water_tile17\\obj_water_tile17.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3cddad62-df0e-46c9-a1e4-0ea4d2edcbdc",
+            "Value": {
+                "id": "1c58c5fb-4da7-4d4a-bda0-0d1e2515119f",
+                "resourcePath": "sprites\\spr_wood_tile11\\spr_wood_tile11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3dc06322-e08b-4e87-bcfc-0ae8ce655edc",
+            "Value": {
+                "id": "5593e635-dbd4-4dca-8242-28817635541d",
+                "resourcePath": "sprites\\spr_wood_tile1\\spr_wood_tile1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3e11e582-7d7f-4602-8681-6661ceeb22f7",
+            "Value": {
+                "id": "f2f0513b-6425-4e84-a3df-e5a2a85e6c8a",
+                "resourcePath": "sprites\\spr_wood_tile6\\spr_wood_tile6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3e1e105f-a665-4549-bf23-62c16f0f59da",
+            "Value": {
+                "id": "05a4a586-ac87-47b8-83f3-f9e19204746e",
+                "resourcePath": "sprites\\spr_water_tile12\\spr_water_tile12.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3e85962b-8ae5-4b01-894e-1eb4fd77e24e",
+            "Value": {
+                "id": "b3c8b8be-2b4c-4e28-b428-ec6ed609507d",
+                "resourcePath": "sprites\\spr_water_tile5\\spr_water_tile5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3ebbc88c-fd8b-4a10-a656-8e17a82cc029",
+            "Value": {
+                "id": "2da52bd0-aae3-48da-a416-b1eca701973d",
+                "resourcePath": "sprites\\spr_stone_tile13\\spr_stone_tile13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "40f06a89-58d5-47b5-8812-6cbebc367980",
             "Value": {
                 "id": "7591a0e7-ad32-431d-bf0e-c1b7bdbf4b70",
                 "resourcePath": "scripts\/script0\/script0.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "42453375-8401-4902-9e82-f775d375a392",
+            "Value": {
+                "id": "b433ae74-929d-4f3e-9c81-ae689486f0a3",
+                "resourcePath": "objects\\obj_stone_tile2\\obj_stone_tile2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -207,6 +639,22 @@
             }
         },
         {
+            "Key": "4377914a-480b-4b17-b1ba-5c1dea7ebf3b",
+            "Value": {
+                "id": "90456810-9350-4615-8d46-fdda43ab564f",
+                "resourcePath": "objects\\obj_fire_tile7\\obj_fire_tile7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4559bf0d-f1f5-47b0-857d-1012c53885f9",
+            "Value": {
+                "id": "f64af102-73e5-43d2-9c25-4c968667f071",
+                "resourcePath": "objects\\obj_wood_tile7\\obj_wood_tile7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "498dd811-7c06-4696-800f-4d806541b7fc",
             "Value": {
                 "id": "d7d5b379-41ac-48dc-8a2e-df6db2e071fa",
@@ -215,11 +663,27 @@
             }
         },
         {
+            "Key": "4a427d9d-3d5a-4e67-ad24-5407d43dbf4a",
+            "Value": {
+                "id": "aeaa84ab-6df9-42fb-aac4-81846c0a9d20",
+                "resourcePath": "views\\4a427d9d-3d5a-4e67-ad24-5407d43dbf4a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "4ab56d23-eb57-4a1a-844d-bf19820ddb51",
             "Value": {
                 "id": "a019203f-bb06-4685-bb53-b3afff38a112",
                 "resourcePath": "objects\\obj_metal_tile11\\obj_metal_tile11.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4abe91cc-d4ca-41d2-8cac-d9f755e867f5",
+            "Value": {
+                "id": "d2739a6d-731e-4129-8bc3-91e0d9f0a758",
+                "resourcePath": "sprites\\spr_wood_tile17\\spr_wood_tile17.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -239,6 +703,46 @@
             }
         },
         {
+            "Key": "4d0a6393-c286-4378-9eef-6bb019955298",
+            "Value": {
+                "id": "9cd59c9d-e445-4edf-8e55-3c4b03106864",
+                "resourcePath": "sprites\\spr_stone_tile14\\spr_stone_tile14.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4e80afa9-3306-4bdc-8f11-db3a2a6ce1e0",
+            "Value": {
+                "id": "51fe598d-0df4-4787-af5d-d844a1453985",
+                "resourcePath": "sprites\\spr_water_tile10\\spr_water_tile10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "50ac9742-c7d5-4d4f-a5b2-59202057534a",
+            "Value": {
+                "id": "5fc470af-ba43-41b7-9459-5d9be30c4971",
+                "resourcePath": "views\\50ac9742-c7d5-4d4f-a5b2-59202057534a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "53728b3c-6210-49b9-b890-2fa8854ae2b0",
+            "Value": {
+                "id": "cec9fe42-c5f5-4070-90de-db97921ac911",
+                "resourcePath": "objects\\obj_stone_tile13\\obj_stone_tile13.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "57335e18-9a3d-4e78-91d0-f1a030db4544",
+            "Value": {
+                "id": "debd4327-20ba-4f5f-a328-7658b8ffe71f",
+                "resourcePath": "sprites\\spr_stone_tile11\\spr_stone_tile11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5738a1fa-43ab-491c-b310-1b5083ed2f91",
             "Value": {
                 "id": "bc0c2fc4-de09-4ca7-a1ed-2b8aaf431f8d",
@@ -251,6 +755,14 @@
             "Value": {
                 "id": "281232fc-9f59-48f2-9e51-4a5d4e28aa9d",
                 "resourcePath": "objects\\obj_metal_tile3\\obj_metal_tile3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "59986317-073b-4985-a785-ce1882ad529e",
+            "Value": {
+                "id": "63ffc7f9-3697-4d38-8ec0-c46f5d2df48d",
+                "resourcePath": "objects\\obj_fire_tile13\\obj_fire_tile13.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -271,11 +783,51 @@
             }
         },
         {
+            "Key": "5db23acb-3843-4e7b-b919-5258c4cfd0f6",
+            "Value": {
+                "id": "5ed16130-fb68-4a1a-a58c-d2083a963bf1",
+                "resourcePath": "sprites\\spr_fire_tile3\\spr_fire_tile3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5e8969f1-6838-4577-8452-f15f4bdd2bf3",
+            "Value": {
+                "id": "7c4fda3a-f46c-4aa2-86d1-e21385267c40",
+                "resourcePath": "views\\5e8969f1-6838-4577-8452-f15f4bdd2bf3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5f2a83b3-e235-49e4-95bd-d7352061fe74",
             "Value": {
                 "id": "e5951c1f-9089-455d-b105-0462ee92b530",
                 "resourcePath": "objects\\obj_metal_tile10\\obj_metal_tile10.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5fc54e87-decd-4091-89fe-82f6775e4e0f",
+            "Value": {
+                "id": "3f0ab4cc-01d4-4750-84ac-c153e668490d",
+                "resourcePath": "objects\\obj_wood_tile12\\obj_wood_tile12.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "60004dd3-d90d-4c71-b77c-d68b62728a7b",
+            "Value": {
+                "id": "5de5945c-0e97-4a8c-ad6e-e381608fe6eb",
+                "resourcePath": "objects\\obj_wood_tile16\\obj_wood_tile16.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "61819385-b95e-4cab-accc-74ae7ebd209b",
+            "Value": {
+                "id": "03b2bf37-6b1c-4a8f-bdf0-cc3917c1cc09",
+                "resourcePath": "sprites\\spr_wood_tile9\\spr_wood_tile9.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -295,6 +847,14 @@
             }
         },
         {
+            "Key": "69cca616-34d9-4838-bc1e-38bd5dab7222",
+            "Value": {
+                "id": "5fad318a-f7df-48dc-bd20-a18ab04f5dd7",
+                "resourcePath": "objects\\obj_fire_tile9\\obj_fire_tile9.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6a213fca-39e7-4873-af43-1173991cd2e2",
             "Value": {
                 "id": "90a0479b-bdd7-4582-a637-5a8bec0b130a",
@@ -303,10 +863,50 @@
             }
         },
         {
+            "Key": "6b325baf-d712-487d-84c0-e304467c0088",
+            "Value": {
+                "id": "52104893-a5de-4044-a308-586b588ca4e1",
+                "resourcePath": "objects\\obj_water_tile19\\obj_water_tile19.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6d63f739-d05b-4e6d-bd05-e19466d7fe9b",
             "Value": {
                 "id": "695fbfc0-4a3e-44a5-97c7-0806bc24d6b9",
                 "resourcePath": "objects\/obj_player_2_controller\/obj_player_2_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "70720c6c-0a84-44b2-b70c-0a1041563fc1",
+            "Value": {
+                "id": "06ce7b11-55cf-4c09-b86c-fa69d603b25a",
+                "resourcePath": "objects\\obj_stone_tile11\\obj_stone_tile11.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "71bde031-83e3-4bbf-b47d-6cabdc0b3305",
+            "Value": {
+                "id": "a94dcaff-f74a-424d-87c2-7ca2541b1ed6",
+                "resourcePath": "objects\\obj_fire_tile4\\obj_fire_tile4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "739d44d6-184a-43e3-8c78-a17e562a42aa",
+            "Value": {
+                "id": "533584e9-c34c-48e8-acb7-83882b0eb170",
+                "resourcePath": "objects\\obj_stone_tile9\\obj_stone_tile9.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7713af61-437d-4cff-9c35-1c76200e9f77",
+            "Value": {
+                "id": "8815a926-eecd-4846-bc04-b982717aca1c",
+                "resourcePath": "objects\\obj_fire_tile2\\obj_fire_tile2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -319,6 +919,14 @@
             }
         },
         {
+            "Key": "7a688387-a1a6-4c42-a378-2bdcb80fd986",
+            "Value": {
+                "id": "ecdc4169-7549-4e9a-a4bc-b3d381c61a41",
+                "resourcePath": "views\\7a688387-a1a6-4c42-a378-2bdcb80fd986.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7b8a78d6-05e8-4aa1-883c-0fb8eeb948f4",
             "Value": {
                 "id": "9e403408-5101-490c-b092-6de391115681",
@@ -327,10 +935,106 @@
             }
         },
         {
+            "Key": "7cc0fb4b-6b89-49ad-b43b-7d6492e2a01c",
+            "Value": {
+                "id": "f42f6a14-2eab-44f5-a2c1-91db977cd845",
+                "resourcePath": "sprites\\spr_water_tile14\\spr_water_tile14.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7cfb358e-8bea-4544-a13d-ec6baffdc17b",
             "Value": {
                 "id": "06e2f64f-5318-454b-83b2-64a491ec904c",
                 "resourcePath": "objects\\obj_metal_tile14\\obj_metal_tile14.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7e2f8215-cce2-4e31-be4d-fa58338144c0",
+            "Value": {
+                "id": "98ffaab5-5495-4840-8e6f-e61f0a7017c8",
+                "resourcePath": "objects\\obj_stone_tile17\\obj_stone_tile17.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7f7a40c1-9a3e-44ce-9d35-9b7eff939208",
+            "Value": {
+                "id": "67d33349-7ad3-4834-bb5e-eebceb6419bf",
+                "resourcePath": "sprites\\spr_stone_tile3\\spr_stone_tile3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "84101cf6-e188-4bb4-b0c5-8d9cfe7549bc",
+            "Value": {
+                "id": "09ac0daf-e3d9-472a-98b4-48b873068047",
+                "resourcePath": "sprites\\spr_water_tile4\\spr_water_tile4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8430eeae-1254-4415-afed-769a3e276c22",
+            "Value": {
+                "id": "a93565f7-64ba-4786-96af-156757e8f65f",
+                "resourcePath": "objects\\obj_stone_tile14\\obj_stone_tile14.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "85cf2fc1-f489-4e6e-b69d-39fc5de65ac8",
+            "Value": {
+                "id": "6aaa13eb-048a-45f0-a126-1e33a5179d6a",
+                "resourcePath": "objects\\obj_stone_tile10\\obj_stone_tile10.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8905222c-45c3-44eb-8c64-a0cba742aa13",
+            "Value": {
+                "id": "41c72f94-a32e-45c5-ba47-3dc05fd73d8e",
+                "resourcePath": "views\\8905222c-45c3-44eb-8c64-a0cba742aa13.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "896bd4a2-63e3-4ebc-ae29-f12835a179f9",
+            "Value": {
+                "id": "741d5b43-db28-4ddd-a6c6-2873357a25b8",
+                "resourcePath": "sprites\\spr_water_tile15\\spr_water_tile15.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8b59ed9a-4b4c-4a1a-b95d-75f50eeefb53",
+            "Value": {
+                "id": "d1426a4a-3ccb-4388-9d5f-8e517b3c8867",
+                "resourcePath": "objects\\obj_wood_tile6\\obj_wood_tile6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8b7a6650-f028-4d16-9b8d-e6b90cb55ce0",
+            "Value": {
+                "id": "3e8270b0-1e72-4fc1-846e-77bfa772ac22",
+                "resourcePath": "views\\8b7a6650-f028-4d16-9b8d-e6b90cb55ce0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8cb76155-9c6f-4d41-8c80-edbf221c494a",
+            "Value": {
+                "id": "cb6d90e1-efae-46af-8646-5e40e55dbfe4",
+                "resourcePath": "objects\\obj_water_tile1\\obj_water_tile1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8db089a4-fcfa-4cd9-88cd-88938e5723f2",
+            "Value": {
+                "id": "f9b8d163-22e1-487e-97ab-73d59cb038fa",
+                "resourcePath": "objects\\obj_water_tile10\\obj_water_tile10.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -351,11 +1055,43 @@
             }
         },
         {
+            "Key": "8ef0e36d-d63d-4a65-899b-016be7efebb2",
+            "Value": {
+                "id": "bd71a3aa-7ee0-439e-b92f-04cfc46f3d57",
+                "resourcePath": "sprites\\spr_water_tile9\\spr_water_tile9.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8f26c95e-a9cb-4df0-bfd1-2f8b4e5ef7f5",
+            "Value": {
+                "id": "2b447a10-bc92-4427-aa03-2d81a000583c",
+                "resourcePath": "objects\\obj_wood_tile19\\obj_wood_tile19.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ff19102-679e-48d6-b6d6-9c7aae7a9d1f",
+            "Value": {
+                "id": "e9b112c8-3197-400a-97fe-f9b4af723a4e",
+                "resourcePath": "sprites\\spr_fire_tile11\\spr_fire_tile11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9104cfc5-f17c-483a-8ed1-aa5580261462",
             "Value": {
                 "id": "335d21d5-4af6-40d3-b2fa-013b47a2f73c",
                 "resourcePath": "sprites\\spr_metal_tile12\\spr_metal_tile12.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "91e935e7-55c2-4e43-af77-bba6f00f1e39",
+            "Value": {
+                "id": "7855107d-bec8-4751-84ce-e06c413e7011",
+                "resourcePath": "objects\\obj_fire_tile14\\obj_fire_tile14.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -372,6 +1108,62 @@
                 "id": "27bd74a6-d785-4b98-b9fe-0895e1b4da06",
                 "resourcePath": "views\\96399f3b-7eee-44f2-b29f-5b11f6dd7b91.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "966403a2-0f5e-4cd7-8eab-2c96bb79b510",
+            "Value": {
+                "id": "4bfc883f-16f9-4c00-a7dc-63e034941836",
+                "resourcePath": "objects\\obj_stone_tile1\\obj_stone_tile1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "96889ac3-6abc-4427-a26b-5570f66183e6",
+            "Value": {
+                "id": "596c0c79-f247-44ff-8f24-97cf345d6f4a",
+                "resourcePath": "sprites\\spr_water_tile18\\spr_water_tile18.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "968b3ee6-8171-4c39-8f21-32467cc8b286",
+            "Value": {
+                "id": "748d1166-b240-4a16-b0de-5d01216b565f",
+                "resourcePath": "sprites\\spr_fire_tile13\\spr_fire_tile13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "968e319b-4dfc-49c9-9bfc-34be213f5959",
+            "Value": {
+                "id": "3582b065-6350-4194-8175-c9bca06b3f5b",
+                "resourcePath": "objects\\obj_wood_tile2\\obj_wood_tile2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "973e0386-5531-456b-bef8-d86ac64abaf3",
+            "Value": {
+                "id": "066eca7b-6e04-4dd2-9e68-0d0a95ae48eb",
+                "resourcePath": "sprites\\spr_fire_tile2\\spr_fire_tile2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9a47aaaf-7497-43dd-8eab-85e6c5b5e566",
+            "Value": {
+                "id": "72817508-017b-4b5b-85c2-eb6d74c01185",
+                "resourcePath": "sprites\\spr_stone_tile19\\spr_stone_tile19.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9dedd099-8873-4017-a970-58d8e346a637",
+            "Value": {
+                "id": "299f371d-5b7e-4ae5-8f7c-996cb0903be5",
+                "resourcePath": "objects\\obj_wood_tile11\\obj_wood_tile11.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -407,11 +1199,59 @@
             }
         },
         {
+            "Key": "a2a8560f-53b3-4daf-858c-9280f3b32b5c",
+            "Value": {
+                "id": "3b996f4a-73cb-42b7-b9ca-91f1897dbf31",
+                "resourcePath": "objects\\obj_fire_tile3\\obj_fire_tile3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a2e3e341-970f-47fb-a85a-2158f9d422d3",
+            "Value": {
+                "id": "6d77de2d-50b8-4629-a9a0-cf2ae63278ae",
+                "resourcePath": "sprites\\spr_stone_tile12\\spr_stone_tile12.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a3b84ad5-0a9e-4670-9f7c-e6377c81b571",
+            "Value": {
+                "id": "067c609e-ed34-40d0-8b2a-e21a3ba0fbfe",
+                "resourcePath": "sprites\\spr_water_tile1\\spr_water_tile1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a57e48f7-e82d-4f8c-934b-1d42c986138d",
+            "Value": {
+                "id": "cc88273a-7f9b-479b-b4da-8f96ba4642cb",
+                "resourcePath": "sprites\\spr_fire_tile8\\spr_fire_tile8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a6087cf6-c2eb-4f94-a1eb-55679d173126",
             "Value": {
                 "id": "c9d3615d-b2d9-4b40-85ee-3602f643de9c",
                 "resourcePath": "rooms\\room_test\\room_test.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a71baae7-cc21-4636-a804-ed9c41990701",
+            "Value": {
+                "id": "27e78edb-a267-4dea-9623-6318675f7550",
+                "resourcePath": "sprites\\spr_wood_tile14\\spr_wood_tile14.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a861bf8f-371f-4945-84c6-ba590b307f71",
+            "Value": {
+                "id": "78742d98-c876-413a-806a-81829ffc7e47",
+                "resourcePath": "sprites\\spr_wood_tile16\\spr_wood_tile16.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -439,11 +1279,67 @@
             }
         },
         {
+            "Key": "a9f4ff10-ddd8-43be-84ac-699b60907fb4",
+            "Value": {
+                "id": "39234373-e7ae-476d-86c3-698233e182c5",
+                "resourcePath": "views\\a9f4ff10-ddd8-43be-84ac-699b60907fb4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aa64c51b-d8ca-4549-b313-40bb334bb0d7",
+            "Value": {
+                "id": "c2bed49a-5d87-4e03-a0b0-1c4c1bba6bb2",
+                "resourcePath": "sprites\\spr_stone_tile2\\spr_stone_tile2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ac0c622d-e50c-4062-84ce-ba9251b264fe",
+            "Value": {
+                "id": "727409ee-eeab-475a-b280-b20b338559c1",
+                "resourcePath": "sprites\\spr_fire_tile5\\spr_fire_tile5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ad2cfbb6-d076-4df8-b6ea-2a47301fb67a",
+            "Value": {
+                "id": "5dc6be36-a6aa-481d-9abf-1f4125bb8585",
+                "resourcePath": "objects\\obj_fire_tile16\\obj_fire_tile16.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ad781c46-41b4-4dc3-a639-f95380261572",
+            "Value": {
+                "id": "1af1320f-ddc7-4622-818c-76d7749b60af",
+                "resourcePath": "objects\\obj_water_tile6\\obj_water_tile6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ad9d7948-c934-4f7d-902a-5420a21c6210",
             "Value": {
                 "id": "ad92a064-afa7-4949-9233-74cdb7aee09e",
                 "resourcePath": "views\/ad9d7948-c934-4f7d-902a-5420a21c6210.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "adc7407c-5f15-4e24-a72e-1ed75954b7e1",
+            "Value": {
+                "id": "770f8162-04a5-4c33-92bc-b2f58ced062b",
+                "resourcePath": "objects\\obj_water_tile12\\obj_water_tile12.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ae0706c0-083a-4b8d-8786-caf57b61bf62",
+            "Value": {
+                "id": "23fa9fec-7ad6-4606-bde8-effa859eeaf9",
+                "resourcePath": "sprites\\spr_stone_tile4\\spr_stone_tile4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -471,10 +1367,58 @@
             }
         },
         {
+            "Key": "b3224f01-292c-4042-8db9-df8ed9b2f886",
+            "Value": {
+                "id": "52f33aa4-05ae-4511-8ca7-ae55cf259924",
+                "resourcePath": "sprites\\spr_stone_tile6\\spr_stone_tile6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b3516bd4-75e6-44f3-9d66-3b0e5801926c",
+            "Value": {
+                "id": "aa7feda3-b625-4c03-bb2a-6652f0f4c59f",
+                "resourcePath": "sprites\\spr_wood_tile2\\spr_wood_tile2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b488aac7-0e43-448e-98d7-e61b8d41656b",
+            "Value": {
+                "id": "c632479c-5a1c-4067-8498-b47cb7f0c935",
+                "resourcePath": "sprites\\spr_wood_tile7\\spr_wood_tile7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b6c8871d-138e-499a-9895-84bf500ac688",
+            "Value": {
+                "id": "f37910b6-4faa-4d34-ba94-b2c162c2eb32",
+                "resourcePath": "sprites\\spr_fire_tile7\\spr_fire_tile7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b6d9572a-ac3b-4cfb-af6b-ff3ecd08cd85",
+            "Value": {
+                "id": "85afbf56-ccfa-471c-8822-f98329fdc817",
+                "resourcePath": "objects\\obj_water_tile18\\obj_water_tile18.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b75a6f4a-047f-4c9d-aee3-8b393287d4f6",
             "Value": {
                 "id": "85214528-2ac8-4eb1-b119-db46b53da3b2",
                 "resourcePath": "objects\\obj_metal_tile12\\obj_metal_tile12.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b9ed2bc2-bdfd-4029-becb-f4c2b54f1047",
+            "Value": {
+                "id": "17c33ac7-c150-4467-bd86-4a199274ef30",
+                "resourcePath": "objects\\obj_wood_tile17\\obj_wood_tile17.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -487,6 +1431,38 @@
             }
         },
         {
+            "Key": "bc3fb2fc-1b4b-4724-bc49-8e7bcb56f61a",
+            "Value": {
+                "id": "67679e71-2a1b-4bfc-a759-6d0a035e26b0",
+                "resourcePath": "sprites\\spr_water_tile11\\spr_water_tile11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bd2cf5ff-c71d-4baa-b729-d33b05f4f220",
+            "Value": {
+                "id": "64deb586-ad30-474a-b23a-796a21416cb2",
+                "resourcePath": "objects\\obj_fire_tile5\\obj_fire_tile5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "be6820c7-f79c-4838-80f7-e9d2fc32f7b0",
+            "Value": {
+                "id": "584d9242-35a2-41bd-9b47-6ef7c7eb1e67",
+                "resourcePath": "sprites\\spr_stone_tile1\\spr_stone_tile1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c0e66c69-edcb-4175-bfc8-c1c22207f4d6",
+            "Value": {
+                "id": "ffec3263-bd15-4dac-be07-9893d0c7d70e",
+                "resourcePath": "sprites\\spr_water_tile2\\spr_water_tile2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c27b7480-1819-4d30-a122-bb7b54d828d9",
             "Value": {
                 "id": "11270a73-c58d-4ba4-ad87-de44b686c414",
@@ -495,10 +1471,58 @@
             }
         },
         {
+            "Key": "c3175caf-9d61-43da-8cce-5adc16fc006f",
+            "Value": {
+                "id": "63d232f9-70b7-4b08-8660-9b7db1358a49",
+                "resourcePath": "objects\\obj_water_tile2\\obj_water_tile2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c351acaa-9e67-49bb-aca0-0660a6b11353",
+            "Value": {
+                "id": "6873ece4-ef0d-4c36-bfd5-d99432dff1f8",
+                "resourcePath": "sprites\\spr_wood_tile10\\spr_wood_tile10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c4997356-1733-497c-9e34-1dce845972f6",
+            "Value": {
+                "id": "44857ecb-4034-4592-bc4a-c0e0b6dea2ec",
+                "resourcePath": "sprites\\spr_wood_tile13\\spr_wood_tile13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c4dcaba9-121e-439a-ac8f-cbda2c82c17e",
+            "Value": {
+                "id": "a953aa9e-2208-4277-82bb-46a7b860ba50",
+                "resourcePath": "objects\\obj_water_tile3\\obj_water_tile3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c64d63dc-80ea-4031-ad5f-9cb62c09c30a",
+            "Value": {
+                "id": "e362b9c5-a300-4f9b-8ad4-c75a6fea43fb",
+                "resourcePath": "objects\\obj_water_tile9\\obj_water_tile9.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c65b1faf-75df-4788-9fa3-9bc4e711d063",
             "Value": {
                 "id": "513e2d05-fac1-443d-92ff-88fe8e54e328",
                 "resourcePath": "sprites\/spr_player1r\/spr_player1r.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c74530d2-ca77-4fe1-85c6-1d34f1f4ecca",
+            "Value": {
+                "id": "884a64f5-f558-4c86-a64c-c1b6d35b0c58",
+                "resourcePath": "sprites\\spr_fire_tile6\\spr_fire_tile6.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -511,11 +1535,51 @@
             }
         },
         {
+            "Key": "c762ef07-8fc0-48ee-9e41-e930c0d8739f",
+            "Value": {
+                "id": "39109573-1899-4277-b481-a28125cfea55",
+                "resourcePath": "sprites\\spr_water_tile16\\spr_water_tile16.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c7d5e709-654b-460f-86b4-31dbd415b86c",
+            "Value": {
+                "id": "ddc41865-dc34-4405-86d1-6d991b250d50",
+                "resourcePath": "objects\\obj_fire_tile8\\obj_fire_tile8.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c841b156-50a8-485e-a05e-c592a70391b8",
             "Value": {
                 "id": "9851a53c-085d-4524-ad65-974b6fb03561",
                 "resourcePath": "objects\\obj_metal_tile5\\obj_metal_tile5.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c85a7154-f6f1-4198-89aa-1421687ee60c",
+            "Value": {
+                "id": "48148a82-2719-4063-bf7d-5b78cd755c12",
+                "resourcePath": "objects\\obj_fire_tile15\\obj_fire_tile15.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c8dca715-6854-49e3-8a7d-40a3ba9ee125",
+            "Value": {
+                "id": "e6976045-6214-48dd-bd50-5f665a5c796a",
+                "resourcePath": "sprites\\spr_water_tile6\\spr_water_tile6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c930e125-0618-4cb7-b772-2c48da0c4abe",
+            "Value": {
+                "id": "f8cc7249-55a3-4121-a235-cf607e7310b0",
+                "resourcePath": "sprites\\spr_water_tile7\\spr_water_tile7.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -535,6 +1599,14 @@
             }
         },
         {
+            "Key": "cbcc6997-e3c4-4492-98bb-8f09347d2233",
+            "Value": {
+                "id": "ebe92ce6-8223-493b-a1a5-1e529f10ea7c",
+                "resourcePath": "objects\\obj_stone_tile7\\obj_stone_tile7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc572487-f0c7-4e87-a677-4040bdb159e2",
             "Value": {
                 "id": "a84693ea-9298-4ead-a919-796aa49ad1d3",
@@ -551,6 +1623,54 @@
             }
         },
         {
+            "Key": "cced75f7-2885-464f-bd54-2bf4f055f3fe",
+            "Value": {
+                "id": "51049080-1290-4672-af63-6d26731fe94d",
+                "resourcePath": "sprites\\spr_water_tile3\\spr_water_tile3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cd6d88a8-8c13-4899-b9f7-ba7139455bce",
+            "Value": {
+                "id": "339b51ef-bf04-4b98-b932-376fc66244a3",
+                "resourcePath": "sprites\\spr_wood_tile19\\spr_wood_tile19.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cfe1f981-8e5b-430e-84e9-1746bb63e364",
+            "Value": {
+                "id": "2c7be126-cde0-4118-bb23-8177add81bba",
+                "resourcePath": "sprites\\spr_wood_tile4\\spr_wood_tile4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d057842e-65cd-44d9-b7a0-c2fedb3d1799",
+            "Value": {
+                "id": "6cc21a95-ac9d-4ca9-b78b-31fa3211ec51",
+                "resourcePath": "objects\\obj_wood_tile8\\obj_wood_tile8.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d082c671-eabb-4525-b3dc-c1989062ca29",
+            "Value": {
+                "id": "dd52124b-fcce-49e2-8da4-b366e5f4b7cb",
+                "resourcePath": "objects\\obj_wood_tile10\\obj_wood_tile10.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d3353a9a-f7a7-4270-8ec2-7077b8efb672",
+            "Value": {
+                "id": "e83b8058-316a-4976-bb3d-b4a4aa60f61b",
+                "resourcePath": "objects\\obj_wood_tile4\\obj_wood_tile4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d43db00c-77a9-4e3c-9009-eb9ba43f3b82",
             "Value": {
                 "id": "9b5a6108-cc50-4cdd-815b-6d4e7888dd01",
@@ -563,6 +1683,30 @@
             "Value": {
                 "id": "f7138063-b46e-4a86-a7eb-664e2ee8a14e",
                 "resourcePath": "objects\\obj_metal_tile13\\obj_metal_tile13.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d5370ee5-6df1-48b5-81a1-6e85af08966c",
+            "Value": {
+                "id": "5d949db0-6960-4766-8dbb-dd1cf675e18c",
+                "resourcePath": "objects\\obj_water_tile5\\obj_water_tile5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d609cb1b-a871-43a2-8a41-fe992590e071",
+            "Value": {
+                "id": "4dafa053-c21d-4572-b2f3-e8dba5dd5a12",
+                "resourcePath": "sprites\\spr_wood_tile15\\spr_wood_tile15.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d76165e7-5f56-4410-b693-a8bebe551121",
+            "Value": {
+                "id": "f79e9eac-3cf4-4b8d-946d-270a7301c7d8",
+                "resourcePath": "objects\\obj_fire_tile11\\obj_fire_tile11.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -591,6 +1735,14 @@
             }
         },
         {
+            "Key": "dc08439d-0b66-4c24-aa1d-37dcc31732b8",
+            "Value": {
+                "id": "d16e8fda-86b3-45e5-8b46-36be550c1d81",
+                "resourcePath": "sprites\\spr_fire_tile4\\spr_fire_tile4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dc9a1b3e-ebd5-4032-9680-0b2a21b31612",
             "Value": {
                 "id": "daabdd65-1706-4ed9-a84e-17e10a990da1",
@@ -615,10 +1767,26 @@
             }
         },
         {
+            "Key": "df1ddd6c-d65b-410c-bae7-081e0a743c00",
+            "Value": {
+                "id": "3c3ac3bb-b06f-4788-9dc5-be6a52095dbf",
+                "resourcePath": "sprites\\spr_stone_tile18\\spr_stone_tile18.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "df8075da-4854-40f8-b065-ed9b31d40f98",
             "Value": {
                 "id": "8acda0ee-6fa6-43fe-b2a8-463e7f64f4b5",
                 "resourcePath": "objects\/obj_block\/obj_block.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dfe0c8c4-9279-4f1c-8e6d-ba5bd544c6b6",
+            "Value": {
+                "id": "6217d85c-a20e-407a-855a-c776222846fb",
+                "resourcePath": "objects\\obj_wood_tile15\\obj_wood_tile15.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -631,6 +1799,14 @@
             }
         },
         {
+            "Key": "e046bb65-96d4-48f8-9caa-6d8ce88d1f77",
+            "Value": {
+                "id": "8f6950d1-d96f-4369-b358-a5ea04a2ea8e",
+                "resourcePath": "objects\\obj_fire_tile10\\obj_fire_tile10.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e1d651fe-e9da-4e6c-b010-1a4f22d8931d",
             "Value": {
                 "id": "9cb4671b-ec6e-4665-9a54-60aa0805dddf",
@@ -639,11 +1815,43 @@
             }
         },
         {
+            "Key": "e2d46171-5a48-447d-9e04-a02391bd38ee",
+            "Value": {
+                "id": "416fadb4-db46-4df0-bac6-aa38353478bb",
+                "resourcePath": "objects\\obj_stone_tile19\\obj_stone_tile19.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e36e8333-7be1-474e-9ba5-d33815b9d60a",
+            "Value": {
+                "id": "7b7eb947-2005-4631-8768-9a2b18b1d366",
+                "resourcePath": "objects\\obj_stone_tile12\\obj_stone_tile12.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e4113c9f-fd7d-447c-b537-1d49d9686514",
+            "Value": {
+                "id": "86b961a3-dd97-4ce7-b926-db5a15b9cde1",
+                "resourcePath": "sprites\\spr_fire_tile10\\spr_fire_tile10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e4c5f670-86ba-4a25-80c4-c583e1f2c98a",
             "Value": {
                 "id": "9bd899b8-e4de-4d7b-8445-c09ff2b9adf2",
                 "resourcePath": "objects\\obj_metal_tile8\\obj_metal_tile8.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e73732ec-b5b4-464d-8f11-177ba82feb9c",
+            "Value": {
+                "id": "59161e11-843a-428f-9802-b109071b47e8",
+                "resourcePath": "sprites\\spr_fire_tile1\\spr_fire_tile1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -663,11 +1871,51 @@
             }
         },
         {
+            "Key": "e9d9c3f2-680a-4acf-b715-b50539cad824",
+            "Value": {
+                "id": "c2c4be96-4c9e-4c12-93b3-7a6a329ea7ad",
+                "resourcePath": "objects\\obj_stone_tile6\\obj_stone_tile6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ece56a0a-91b3-43de-8fec-7b3926250e7c",
+            "Value": {
+                "id": "474612d1-f4c9-4ba6-af6f-bb3efebdbfc0",
+                "resourcePath": "objects\\obj_water_tile7\\obj_water_tile7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eec756b6-4a5a-4178-8d7f-72b4e7b99ac7",
+            "Value": {
+                "id": "f405570b-6d41-44be-b280-d985bfe89185",
+                "resourcePath": "objects\\obj_fire_tile6\\obj_fire_tile6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eee6664d-2164-4031-8858-a094437a99ba",
             "Value": {
                 "id": "78cd02e7-7771-4074-bc28-446b9b58fa38",
                 "resourcePath": "sprites\\spr_metal_tile14\\spr_metal_tile14.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ef4d8bc7-51b1-4761-86d7-ce57943cc3b3",
+            "Value": {
+                "id": "c540e204-cd73-4dce-b4ff-76eba3a148c7",
+                "resourcePath": "sprites\\spr_fire_tile15\\spr_fire_tile15.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ef642081-e232-4e2a-9f7b-d377da4ee24a",
+            "Value": {
+                "id": "138c75f7-f6e4-4132-8912-38880aaf8b2a",
+                "resourcePath": "objects\\obj_fire_tile12\\obj_fire_tile12.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -687,6 +1935,22 @@
             }
         },
         {
+            "Key": "f731d61e-7390-48f7-952e-2efac76f9f43",
+            "Value": {
+                "id": "c68dbfa5-7731-4ef7-802b-4ba824373e61",
+                "resourcePath": "objects\\obj_stone_tile4\\obj_stone_tile4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f7cc2602-7271-4da3-ab30-2265e811d2d7",
+            "Value": {
+                "id": "a66f5c50-597d-4177-a0db-06e63640b9a0",
+                "resourcePath": "sprites\\spr_stone_tile9\\spr_stone_tile9.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f8863da6-e182-48b4-9659-c4610a27b7fb",
             "Value": {
                 "id": "f1fed83b-9115-47a3-9df5-0e72f49c26c4",
@@ -703,6 +1967,22 @@
             }
         },
         {
+            "Key": "fa851987-9fb6-4326-8e29-8c1f90dafb01",
+            "Value": {
+                "id": "52a9f36d-4d02-4313-ad4a-f626a58dad2a",
+                "resourcePath": "sprites\\spr_water_tile13\\spr_water_tile13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "faea07f6-35b3-451c-8898-50ef1ee661e1",
+            "Value": {
+                "id": "67372387-4a66-400e-b60e-f0856c4086b8",
+                "resourcePath": "objects\\obj_stone_tile5\\obj_stone_tile5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "faf9cabb-d7dd-4393-977f-248f38d2b018",
             "Value": {
                 "id": "531d98ff-12df-427b-9047-7c65f97493d2",
@@ -716,6 +1996,14 @@
                 "id": "0b51c071-0509-43cc-8040-43ceca1c20e5",
                 "resourcePath": "sprites\/spr_player2\/spr_player2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd9d827a-3907-4b2d-8664-dd45a4af6fe1",
+            "Value": {
+                "id": "d89a1229-f79f-4653-a765-6dc0efaa0785",
+                "resourcePath": "objects\\obj_wood_tile13\\obj_wood_tile13.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

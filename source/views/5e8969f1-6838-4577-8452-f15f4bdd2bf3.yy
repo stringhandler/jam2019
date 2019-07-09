@@ -1,0 +1,31 @@
+{
+    "id": "5e8969f1-6838-4577-8452-f15f4bdd2bf3",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "5e8969f1-6838-4577-8452-f15f4bdd2bf3",
+    "children": [
+        "8cb76155-9c6f-4d41-8c80-edbf221c494a",
+        "c3175caf-9d61-43da-8cce-5adc16fc006f",
+        "c4dcaba9-121e-439a-ac8f-cbda2c82c17e",
+        "1425639d-e563-44c4-af65-9690fcf974c2",
+        "d5370ee5-6df1-48b5-81a1-6e85af08966c",
+        "ad781c46-41b4-4dc3-a639-f95380261572",
+        "ece56a0a-91b3-43de-8fec-7b3926250e7c",
+        "3cc7d14a-5f6f-4e17-8696-9fd576f84dab",
+        "c64d63dc-80ea-4031-ad5f-9cb62c09c30a",
+        "8db089a4-fcfa-4cd9-88cd-88938e5723f2",
+        "091d9e6e-3be3-41a0-8fe9-00ef80c64ad4",
+        "adc7407c-5f15-4e24-a72e-1ed75954b7e1",
+        "1900ffb8-c09a-418d-96de-9f1af2166ce6",
+        "115308c8-f3ac-4c8e-8344-9bddb6fac0c9",
+        "14d332a8-fd8c-47e0-b68d-6d12b2c5f301",
+        "2b2aaa96-8aef-44eb-85ff-ec3c35063302",
+        "3ccbf9da-2291-4102-81a6-bbe370b542de",
+        "b6d9572a-ac3b-4cfb-af6b-ff3ecd08cd85",
+        "6b325baf-d712-487d-84c0-e304467c0088"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Water",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

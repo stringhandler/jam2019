@@ -1,0 +1,31 @@
+{
+    "id": "4a427d9d-3d5a-4e67-ad24-5407d43dbf4a",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "4a427d9d-3d5a-4e67-ad24-5407d43dbf4a",
+    "children": [
+        "a3b84ad5-0a9e-4670-9f7c-e6377c81b571",
+        "c0e66c69-edcb-4175-bfc8-c1c22207f4d6",
+        "cced75f7-2885-464f-bd54-2bf4f055f3fe",
+        "84101cf6-e188-4bb4-b0c5-8d9cfe7549bc",
+        "3e85962b-8ae5-4b01-894e-1eb4fd77e24e",
+        "c8dca715-6854-49e3-8a7d-40a3ba9ee125",
+        "c930e125-0618-4cb7-b772-2c48da0c4abe",
+        "28e019af-9d15-46fa-a313-497d4abc1856",
+        "8ef0e36d-d63d-4a65-899b-016be7efebb2",
+        "4e80afa9-3306-4bdc-8f11-db3a2a6ce1e0",
+        "bc3fb2fc-1b4b-4724-bc49-8e7bcb56f61a",
+        "3e1e105f-a665-4549-bf23-62c16f0f59da",
+        "fa851987-9fb6-4326-8e29-8c1f90dafb01",
+        "7cc0fb4b-6b89-49ad-b43b-7d6492e2a01c",
+        "896bd4a2-63e3-4ebc-ae29-f12835a179f9",
+        "c762ef07-8fc0-48ee-9e41-e930c0d8739f",
+        "1005ab11-6dcb-478a-8e12-7e68aa2e0050",
+        "96889ac3-6abc-4427-a26b-5570f66183e6",
+        "185d0889-65e0-41f7-85bc-43ce0d2f919a"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Water",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

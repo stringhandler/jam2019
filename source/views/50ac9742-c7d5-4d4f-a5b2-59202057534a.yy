@@ -1,0 +1,31 @@
+{
+    "id": "50ac9742-c7d5-4d4f-a5b2-59202057534a",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "50ac9742-c7d5-4d4f-a5b2-59202057534a",
+    "children": [
+        "1b82f83f-9d15-4e2c-ba88-97f100d70447",
+        "968e319b-4dfc-49c9-9bfc-34be213f5959",
+        "386bb3c9-a19a-4ee8-8dc4-0360c4a6084e",
+        "d3353a9a-f7a7-4270-8ec2-7077b8efb672",
+        "27f4c4a7-d667-4702-a1c7-3e9839433bb5",
+        "8b59ed9a-4b4c-4a1a-b95d-75f50eeefb53",
+        "4559bf0d-f1f5-47b0-857d-1012c53885f9",
+        "d057842e-65cd-44d9-b7a0-c2fedb3d1799",
+        "024163e9-370d-41b4-be14-b3562bb76d2a",
+        "d082c671-eabb-4525-b3dc-c1989062ca29",
+        "9dedd099-8873-4017-a970-58d8e346a637",
+        "5fc54e87-decd-4091-89fe-82f6775e4e0f",
+        "fd9d827a-3907-4b2d-8664-dd45a4af6fe1",
+        "1176d285-c6a2-4989-8ae8-000665c5e429",
+        "dfe0c8c4-9279-4f1c-8e6d-ba5bd544c6b6",
+        "60004dd3-d90d-4c71-b77c-d68b62728a7b",
+        "b9ed2bc2-bdfd-4029-becb-f4c2b54f1047",
+        "2f9d552a-0dd2-4bb3-814a-4b3e97288ecf",
+        "8f26c95e-a9cb-4df0-bfd1-2f8b4e5ef7f5"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Wood",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

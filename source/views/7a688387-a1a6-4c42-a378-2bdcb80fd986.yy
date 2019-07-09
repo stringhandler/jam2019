@@ -1,0 +1,31 @@
+{
+    "id": "7a688387-a1a6-4c42-a378-2bdcb80fd986",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "7a688387-a1a6-4c42-a378-2bdcb80fd986",
+    "children": [
+        "be6820c7-f79c-4838-80f7-e9d2fc32f7b0",
+        "aa64c51b-d8ca-4549-b313-40bb334bb0d7",
+        "7f7a40c1-9a3e-44ce-9d35-9b7eff939208",
+        "ae0706c0-083a-4b8d-8786-caf57b61bf62",
+        "102db2c9-db60-403b-a2ec-52725971e72f",
+        "b3224f01-292c-4042-8db9-df8ed9b2f886",
+        "2b7fb3e2-3bf0-4ce6-b694-620c9e6e2ea3",
+        "11011f7f-c10e-4b79-bae3-f70def9626ad",
+        "f7cc2602-7271-4da3-ab30-2265e811d2d7",
+        "380159b1-6440-495c-a674-105743bf45e7",
+        "57335e18-9a3d-4e78-91d0-f1a030db4544",
+        "a2e3e341-970f-47fb-a85a-2158f9d422d3",
+        "3ebbc88c-fd8b-4a10-a656-8e17a82cc029",
+        "4d0a6393-c286-4378-9eef-6bb019955298",
+        "20df48f3-e279-4d75-9bfa-56ad5e117782",
+        "26e94007-f770-45d2-b18b-16dc72335ee6",
+        "1e27269e-a81d-406f-b07e-a1cdfd833311",
+        "df1ddd6c-d65b-410c-bae7-081e0a743c00",
+        "9a47aaaf-7497-43dd-8eab-85e6c5b5e566"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Stone",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
