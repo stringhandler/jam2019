@@ -1,0 +1,31 @@
+{
+    "id": "1d3207d2-fd71-48e1-9916-c1ebc081f502",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "1d3207d2-fd71-48e1-9916-c1ebc081f502",
+    "children": [
+        "0ad10c3c-eff0-4d4a-807d-532ae7be190c",
+        "afc9200b-a1ff-477d-8670-5eee7b56d268",
+        "587b82df-aa7c-42fe-8ac9-48b4e03bd9c5",
+        "79e9c934-e71a-4bfb-b971-05e52ac88efa",
+        "c841b156-50a8-485e-a05e-c592a70391b8",
+        "03c4aaee-3e9b-4898-b86f-9ed126cab6a3",
+        "e1d651fe-e9da-4e6c-b010-1a4f22d8931d",
+        "e4c5f670-86ba-4a25-80c4-c583e1f2c98a",
+        "20b937d8-6c16-465e-8676-b3591c79b0d6",
+        "5f2a83b3-e235-49e4-95bd-d7352061fe74",
+        "4ab56d23-eb57-4a1a-844d-bf19820ddb51",
+        "b75a6f4a-047f-4c9d-aee3-8b393287d4f6",
+        "d4f13671-e040-47d4-8a2c-1956160ef31b",
+        "7cfb358e-8bea-4544-a13d-ec6baffdc17b",
+        "1eede3bf-50fd-4b46-8a83-159b71966423",
+        "f54aa45f-5c4f-4977-92f3-2d187bb16a41",
+        "dc9a1b3e-ebd5-4032-9680-0b2a21b31612",
+        "2a38ef84-d314-4f6d-9fa7-ec193395b021",
+        "cb410689-994e-4824-9d33-4fb19c90641e"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Metal",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

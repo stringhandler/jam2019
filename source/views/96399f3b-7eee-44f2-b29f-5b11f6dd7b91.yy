@@ -1,0 +1,31 @@
+{
+    "id": "96399f3b-7eee-44f2-b29f-5b11f6dd7b91",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "96399f3b-7eee-44f2-b29f-5b11f6dd7b91",
+    "children": [
+        "a1c77af5-0a27-4b91-972c-7faf9640f02f",
+        "6a213fca-39e7-4873-af43-1173991cd2e2",
+        "4b4bf756-b9c4-44f6-a355-ac7f98a9bf7e",
+        "64f2d638-de26-440c-bb77-de2e75e7febb",
+        "b1def4fa-7dda-4b0d-bd12-eec23d45b032",
+        "2f932150-77b1-4a6c-b199-dd18de9be7ab",
+        "d43db00c-77a9-4e3c-9009-eb9ba43f3b82",
+        "a8af7159-b1dc-4f7e-859b-a2c77cbbe62a",
+        "3181be2b-283a-4f81-871b-0981ee6abf12",
+        "de7dd652-1930-410a-a238-75d6f0019786",
+        "a87b78a7-d8c5-4a51-985a-c3e535d0ec95",
+        "9104cfc5-f17c-483a-8ed1-aa5580261462",
+        "2d362d25-df72-41bb-9e4d-13d05022ce7f",
+        "eee6664d-2164-4031-8858-a094437a99ba",
+        "d9986655-a0e1-4a36-a175-9108c4535a85",
+        "cb7cce80-aeea-45a4-90fc-d911d38cb34d",
+        "0649d68f-a83e-44d5-94fc-eb049b2fd8d9",
+        "95e70d23-a808-49d6-baa6-f8773fef9896",
+        "ddf5c066-9bf7-436e-a13e-46e051d5e4cb"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Metal",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
