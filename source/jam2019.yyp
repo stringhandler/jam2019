@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "04ff8c99-6f86-463e-aba8-0eaaf428eebd",
+            "Value": {
+                "id": "47fc6def-4673-4064-b0a6-f8dc98b3ccc8",
+                "resourcePath": "objects\/obj_effect_burnt\/obj_effect_burnt.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0649d68f-a83e-44d5-94fc-eb049b2fd8d9",
             "Value": {
                 "id": "1344306b-aeb0-434d-8e46-db8402f115c7",
@@ -452,14 +460,6 @@
                 "id": "14030350-d27e-45d5-970d-515343a82d16",
                 "resourcePath": "sprites\/spr_fire_tile19\/spr_fire_tile19.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "2efaf05a-9743-40d9-ab51-5f95f9429afc",
-            "Value": {
-                "id": "b3fcbd23-1ecb-41e3-8233-c316c577c245",
-                "resourcePath": "objects\/obj_block_fire\/obj_block_fire.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1027,6 +1027,14 @@
             "Value": {
                 "id": "d1426a4a-3ccb-4388-9d5f-8e517b3c8867",
                 "resourcePath": "objects\/obj_wood_tile6\/obj_wood_tile6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8b5c48d5-bc13-42d6-9c19-d1f4ac4ceadc",
+            "Value": {
+                "id": "9d855432-db9d-4064-b89c-048c6f4b6d16",
+                "resourcePath": "objects\/obj_fire_base\/obj_fire_base.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1796,14 +1804,6 @@
                 "id": "3c3ac3bb-b06f-4788-9dc5-be6a52095dbf",
                 "resourcePath": "sprites\/spr_stone_tile18\/spr_stone_tile18.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "df8075da-4854-40f8-b065-ed9b31d40f98",
-            "Value": {
-                "id": "8acda0ee-6fa6-43fe-b2a8-463e7f64f4b5",
-                "resourcePath": "objects\/obj_block\/obj_block.yy",
-                "resourceType": "GMObject"
             }
         },
         {

@@ -22,7 +22,8 @@
         "ad2cfbb6-d076-4df8-b6ea-2a47301fb67a",
         "12cca024-26cf-4b05-a88e-b325792ba91e",
         "2485f77c-d560-40d8-ba75-cee170e38537",
-        "30e7291d-ac09-4ecf-8325-e1f2caeea30c"
+        "30e7291d-ac09-4ecf-8325-e1f2caeea30c",
+        "8b5c48d5-bc13-42d6-9c19-d1f4ac4ceadc"
     ],
     "filterType": "GMObject",
     "folderName": "Fire",

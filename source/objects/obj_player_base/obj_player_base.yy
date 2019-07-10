@@ -83,6 +83,16 @@
             "enumb": 64,
             "eventtype": 8,
             "m_owner": "a0f57afc-8517-454a-a421-6e6bde4327e7"
+        },
+        {
+            "id": "c0f8570e-f7a2-4a93-84f0-3193a0c7e1e7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "8b5c48d5-bc13-42d6-9c19-d1f4ac4ceadc",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "a0f57afc-8517-454a-a421-6e6bde4327e7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -200,6 +210,20 @@
             "value": "spr_player2",
             "varName": "walking_spr",
             "varType": 5
+        },
+        {
+            "id": "7960208d-a5ff-43fd-a333-825d9c4081e1",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "is_dead",
+            "varType": 3
         }
     ],
     "solid": true,

@@ -28,3 +28,4 @@ else {
 	is_pushing = false
 	sprite_index = walking_spr
 }
+

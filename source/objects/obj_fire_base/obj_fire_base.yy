@@ -1,14 +1,14 @@
 {
-    "id": "2efaf05a-9743-40d9-ab51-5f95f9429afc",
+    "id": "8b5c48d5-bc13-42d6-9c19-d1f4ac4ceadc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_block_fire",
+    "name": "obj_fire_base",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "df8075da-4854-40f8-b065-ed9b31d40f98",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
