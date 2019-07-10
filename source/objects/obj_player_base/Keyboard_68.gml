@@ -1,5 +1,5 @@
 /// @description Move right
-if (player_no == global.player_1_no) {
+if (player_no == global.player_2_no) {
 	image_xscale = 1;
 	direction=0
 	
