@@ -671,6 +671,14 @@
             }
         },
         {
+            "Key": "46dff02d-f5e6-48a9-8caa-5732c37e96b4",
+            "Value": {
+                "id": "5d49fc30-670a-45c3-9025-30cfbf1dd11e",
+                "resourcePath": "rooms\/room_pre_level\/room_pre_level.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "498dd811-7c06-4696-800f-4d806541b7fc",
             "Value": {
                 "id": "d7d5b379-41ac-48dc-8a2e-df6db2e071fa",
@@ -876,6 +884,14 @@
                 "id": "cc38eef2-92cc-4c47-8a97-43df0880ae8b",
                 "resourcePath": "views\/62ae185c-9c92-464d-bf35-36d519f1169a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "62c2d14e-0dee-44ee-af07-814981be587d",
+            "Value": {
+                "id": "95b52d13-707f-47f5-b1f0-5902c559dfab",
+                "resourcePath": "sprites\/spr_button_restart\/spr_button_restart.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1548,6 +1564,14 @@
                 "id": "67679e71-2a1b-4bfc-a759-6d0a035e26b0",
                 "resourcePath": "sprites\/spr_water_tile11\/spr_water_tile11.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bd079e4d-5ccf-436c-93dd-904c3f6482d9",
+            "Value": {
+                "id": "4df0188b-e59d-4ef0-9e31-1256626c7f93",
+                "resourcePath": "objects\/obj_button_restart\/obj_button_restart.yy",
+                "resourceType": "GMObject"
             }
         },
         {
