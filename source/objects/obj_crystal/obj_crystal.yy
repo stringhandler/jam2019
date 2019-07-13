@@ -1,14 +1,14 @@
 {
-    "id": "d057842e-65cd-44d9-b7a0-c2fedb3d1799",
+    "id": "9dde36bb-b2f6-42af-92cf-39a895742688",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_wood_tile8",
+    "name": "obj_crystal",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "17530c8d-9267-4717-a84d-68ef4bc0a963",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "0cc1ca13-295d-4d79-b9ea-220966615907",
+    "solid": false,
+    "spriteId": "5a4e5dc1-1f14-4d8b-9227-418c0f194642",
     "visible": true
 }

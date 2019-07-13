@@ -1,8 +1,8 @@
 {
-    "id": "d057842e-65cd-44d9-b7a0-c2fedb3d1799",
+    "id": "8f9154d5-7a02-4251-b593-bfa03725e720",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_wood_tile8",
+    "name": "obj_menu_level_end",
     "eventList": [
         
     ],
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "0cc1ca13-295d-4d79-b9ea-220966615907",
+    "solid": false,
+    "spriteId": "7a470b94-c893-4ab9-952b-ba742e256360",
     "visible": true
 }
