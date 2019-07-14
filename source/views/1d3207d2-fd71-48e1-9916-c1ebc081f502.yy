@@ -22,7 +22,8 @@
         "f54aa45f-5c4f-4977-92f3-2d187bb16a41",
         "dc9a1b3e-ebd5-4032-9680-0b2a21b31612",
         "2a38ef84-d314-4f6d-9fa7-ec193395b021",
-        "cb410689-994e-4824-9d33-4fb19c90641e"
+        "cb410689-994e-4824-9d33-4fb19c90641e",
+        "8abce768-a89b-4aa4-84cf-0160c3c36fea"
     ],
     "filterType": "GMObject",
     "folderName": "Metal",

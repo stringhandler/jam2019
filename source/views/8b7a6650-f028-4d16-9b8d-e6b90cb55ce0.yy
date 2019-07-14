@@ -22,7 +22,8 @@
         "1d4d927c-aa78-46ac-b629-78e0a6cf6993",
         "7e2f8215-cce2-4e31-be4d-fa58338144c0",
         "12374488-dabb-455b-863a-290b7a8a60e4",
-        "e2d46171-5a48-447d-9e04-a02391bd38ee"
+        "e2d46171-5a48-447d-9e04-a02391bd38ee",
+        "618b1fc6-f392-4b7b-b19c-627ca95d74d2"
     ],
     "filterType": "GMObject",
     "folderName": "Stone",

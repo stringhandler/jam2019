@@ -5,26 +5,6 @@
     "name": "obj_player_base",
     "eventList": [
         {
-            "id": "d3ae935c-0d6d-4d3b-afd9-196885d15572",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 37,
-            "eventtype": 5,
-            "m_owner": "a0f57afc-8517-454a-a421-6e6bde4327e7"
-        },
-        {
-            "id": "1a5bffe4-c021-4949-8cce-7c32f05a677a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 39,
-            "eventtype": 5,
-            "m_owner": "a0f57afc-8517-454a-a421-6e6bde4327e7"
-        },
-        {
             "id": "5c314480-6ba0-403a-aa30-124691ed0b53",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -32,16 +12,6 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "a0f57afc-8517-454a-a421-6e6bde4327e7"
-        },
-        {
-            "id": "34297747-0751-4681-a76e-2e0e3dc2af19",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 32,
-            "eventtype": 5,
             "m_owner": "a0f57afc-8517-454a-a421-6e6bde4327e7"
         },
         {
@@ -234,6 +204,20 @@
             "value": "False",
             "varName": "is_dead",
             "varType": 3
+        },
+        {
+            "id": "9182e9c1-279e-499f-890c-79d7a315634b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "4",
+            "varName": "hor_speed",
+            "varType": 1
         }
     ],
     "solid": true,

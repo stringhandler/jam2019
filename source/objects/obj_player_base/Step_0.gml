@@ -1,4 +1,9 @@
 /// @description Gravity
+
+if is_dead {
+	return
+}
+
 if (jump > 0) {
 	
 	if place_free(x, y-jump) {
