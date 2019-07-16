@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_water_tile19",
     "eventList": [
-        
+        {
+            "id": "eb39affb-8516-4187-963b-577e0268ff9f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "6b325baf-d712-487d-84c0-e304467c0088"
+        },
+        {
+            "id": "1b7e5052-272e-4391-943c-bd783f4bb70b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "6b325baf-d712-487d-84c0-e304467c0088"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
